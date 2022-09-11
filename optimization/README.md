@@ -1,5 +1,12 @@
 # Optimization Algorithm
 
+## Metaheuristic
+* [Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+* [TABU Search](https://en.wikipedia.org/wiki/Tabu_search)
+* [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+* [Particle Swarm Optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
+* [Ant Conlony Optimazation](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
+
 ## Tutorial
 * PSO
     * http://www.sciencedirect.com/science/article/pii/S0169743915002117
