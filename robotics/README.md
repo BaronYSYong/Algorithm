@@ -34,3 +34,5 @@
   * Stanley Contol
     * https://dingyan89.medium.com/three-methods-of-vehicle-lateral-control-pure-pursuit-stanley-and-mpc-db8cc1d32081
   * [GNC (Guidance, navigation, and control)](https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control)
+* [Back driving](https://www.linearmotiontips.com/what-is-back-driving-and-why-is-it-important/)
+* [Model predictive control](https://en.wikipedia.org/wiki/Model_predictive_control)
